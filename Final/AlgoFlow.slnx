@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="algoflow project/algoflow project.vbproj" Id="b99260d3-0807-4e3f-8715-57a51adf781b">
+    <Platform Solution="*|x86" Project="x86" />
+  </Project>
+</Solution>
